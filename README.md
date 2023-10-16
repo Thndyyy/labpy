@@ -1,5 +1,5 @@
-# labpy
-## Belajar Tag Dasar HTML
+# Hi Saya Thondy Autarliandi
+## Berikut ialah hasil belajar saya dalam mempelajari tag dasar HTML
 
 ### Membuat Paragraf
 kode tag untuk paragraf adalah '<p>'
