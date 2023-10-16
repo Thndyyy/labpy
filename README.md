@@ -3,5 +3,5 @@
 
 ### Membuat paragraf
 kode tag untuk paragraf adalah 'p'
-####Berikut ialah tampilan HTML polos tanpa menggunakan bahasa pemograman css
+#### Berikut ialah tampilan HTML polos tanpa menggunakan bahasa pemograman css
 ![Gambar 1](screenshot/ss1.png)
